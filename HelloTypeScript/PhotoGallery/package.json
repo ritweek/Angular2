@@ -1,0 +1,14 @@
+{
+  "name": "photo-gallery",
+  "version": "0.0.0",
+  "description": "PhotoGallery",
+  "main": "app.js",
+  "author": {
+    "name": "r.ranjan"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}

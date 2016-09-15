@@ -1,0 +1,6 @@
+c:\users\r.ranjan\documents\visual studio 2015\Projects\HelloTypeScript\HelloTypeScript\bin\HelloTypeScript.dll.config
+c:\users\r.ranjan\documents\visual studio 2015\Projects\HelloTypeScript\HelloTypeScript\bin\HelloTypeScript.dll
+c:\users\r.ranjan\documents\visual studio 2015\Projects\HelloTypeScript\HelloTypeScript\bin\HelloTypeScript.pdb
+c:\users\r.ranjan\documents\visual studio 2015\Projects\HelloTypeScript\HelloTypeScript\obj\Debug\HelloTypeScript.csprojResolveAssemblyReference.cache
+c:\users\r.ranjan\documents\visual studio 2015\Projects\HelloTypeScript\HelloTypeScript\obj\Debug\HelloTypeScript.dll
+c:\users\r.ranjan\documents\visual studio 2015\Projects\HelloTypeScript\HelloTypeScript\obj\Debug\HelloTypeScript.pdb
